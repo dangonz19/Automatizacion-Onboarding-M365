@@ -48,3 +48,5 @@ Al enviar el formulario de ingreso, el flujo activa en paralelo las siguientes s
 <img width="697" height="831" alt="image" src="https://github.com/user-attachments/assets/fb2ed6a8-2e64-4ad3-9dde-48913a5753d0" />
 <img width="491" height="689" alt="image" src="https://github.com/user-attachments/assets/c9b173ea-b00c-43ec-89ff-b43d8131a47c" />
 <img width="921" height="376" alt="image" src="https://github.com/user-attachments/assets/0847529d-b120-49f4-9c4f-72ffe87be15b" />
+<img width="571" height="779" alt="image" src="https://github.com/user-attachments/assets/d6c99cd2-9548-4238-8127-6c772be1e73b" />
+
